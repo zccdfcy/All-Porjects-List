@@ -51,7 +51,8 @@
 
 4. Job Hub: AWS based Web Service for Job Recommendation
 
-[Project Demo] 
+[Project Demo] ![image](https://user-images.githubusercontent.com/55950547/128787926-78a26c47-8ed8-4903-8a95-ccf7b86a3a2a.png)
+
 
 [Website Link] http://13.114.101.165/jupiter2/# (terminated since github API is no longer available)
 
