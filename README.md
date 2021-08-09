@@ -34,7 +34,7 @@
 
 3. SOUR TOMATOES: Full-Stack Node.js Service for Review Aggregation
 
-[Project Demo] 
+[Project Demo] https://youtu.be/Ie8pj_TD6Fw
 
 [Website Link] https://tomatos.zccdfcy.com/
 
