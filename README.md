@@ -1,6 +1,6 @@
-# All-Porjects-List
 
-1. MY TRAVEL BLOG: Python, Django based Personal Blog
+
+# 1. MY TRAVEL BLOG: Python, Django based Personal Blog
 
 [Project Demo] https://youtu.be/cg-1cL_ECtw
 
@@ -17,7 +17,7 @@
 •	Created Superuser by Django-admin for managing posts, users and comments.
 
 
-2. DELIVERY HOME: Java, Spring Boot based Web Service for Online Shopping
+# 2. DELIVERY HOME: Java, Spring Boot based Web Service for Online Shopping
 
 [Project Demo] https://youtu.be/brxzkA1Wuo0
 
@@ -32,7 +32,7 @@
 •	Designed RESTful API for URL location resources and CRUD operations, with MySQL database.
 
 
-3. SOUR TOMATOES: Full-Stack Node.js Service for Review Aggregation
+# 3. SOUR TOMATOES: Full-Stack Node.js Service for Review Aggregation
 
 [Project Demo] https://youtu.be/Ie8pj_TD6Fw
 
@@ -49,7 +49,7 @@
 •	Built user login and register system with Passport.js.
 
 
-4. Job Hub: AWS based Web Service for Job Recommendation
+# 4. Job Hub: AWS based Web Service for Job Recommendation
 
 [Project Demo] ![image](https://user-images.githubusercontent.com/55950547/128787926-78a26c47-8ed8-4903-8a95-ccf7b86a3a2a.png)
 
