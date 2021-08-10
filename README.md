@@ -2,7 +2,10 @@
 
 # 1. MY TRAVEL BLOG: Python, Django based Personal Blog
 
-[Project Demo] https://youtu.be/cg-1cL_ECtw
+[Project Demo] 
+
+![Myblog-env - Dashboard - Google Chrome 2021-08-09 13-48-43 00_00_00-00_03_22 00_00_00-00_01_41](https://user-images.githubusercontent.com/55950547/128789629-61b8f774-4349-466d-8744-defd771cc524.gif)
+
 
 [Blog Link] https://blog.zccdfcy.com/
 
@@ -19,7 +22,9 @@
 
 # 2. DELIVERY HOME: Java, Spring Boot based Web Service for Online Shopping
 
-[Project Demo] ![Delivery Home - Google Chrome 2021-08-07 18-54-06 00_00_00-00_05_46 00_00_00-00_02_53](https://user-images.githubusercontent.com/55950547/128789411-b10fc389-b65a-4c6a-8782-2fa397a84af0.gif)
+[Project Demo] 
+
+![Delivery Home - Google Chrome 2021-08-07 18-54-06 00_00_00-00_05_46 00_00_00-00_02_53](https://user-images.githubusercontent.com/55950547/128789411-b10fc389-b65a-4c6a-8782-2fa397a84af0.gif)
 
 [Source Code] https://github.com/zccdfcy/Delivery-Home
 
