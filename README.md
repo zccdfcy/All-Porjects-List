@@ -4,7 +4,8 @@
 
 [Project Demo] 
 
-![Myblog-env - Dashboard - Google Chrome 2021-08-09 13-48-43 00_00_00-00_03_22 00_00_00-00_01_41](https://user-images.githubusercontent.com/55950547/128789629-61b8f774-4349-466d-8744-defd771cc524.gif)
+![Myblog-env - Dashboard - Google Chrome 2021-08-09 13-48-43 00_00_00-00_03_22 00_00_00-00_01_41~1](https://user-images.githubusercontent.com/55950547/128789907-9f827e4c-5315-467d-a51a-e0fedef562a8.gif)
+
 
 
 [Blog Link] https://blog.zccdfcy.com/
