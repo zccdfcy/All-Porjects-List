@@ -40,7 +40,10 @@
 
 # 3. SOUR TOMATOES: Full-Stack Node.js Service for Review Aggregation
 
-[Project Demo] https://youtu.be/Ie8pj_TD6Fw
+[Project Demo]
+
+![Project Demo  Sour Tomatos - YouTube - Google Chrome 2021-08-09 17-22-34 00_00_01-00_01_29](https://user-images.githubusercontent.com/55950547/128790457-cbdda431-135b-4f69-8e18-c4dfe9ad05a6.gif)
+
 
 [Website Link] https://tomatos.zccdfcy.com/
 
